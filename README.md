@@ -97,7 +97,7 @@ I don't trust a concept until I've broken it myself.
 <img src="https://github-readme-stats.vercel.app/api?username=imagam18&show_icons=true&hide_border=true&title_color=9C27B0&icon_color=4285F4&text_color=ffffff&bg_color=0D1117" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imagam18&layout=compact&hide_border=true&title_color=9C27B0&text_color=ffffff&bg_color=0D1117" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imagam18&hide_border=true&background=0D1117&ring=9C27B0&fire=F57C00&currStreakLabel=4285F4" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=imagam18&hide_border=true&background=0D1117&ring=9C27B0&fire=F57C00&currStreakLabel=4285F4" height="165"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imagam18&bg_color=0D1117&color=4285F4&line=9C27B0&point=F57C00&hide_border=true" width="100%"/>
 
@@ -115,10 +115,20 @@ The goal isn't a job title — it's understanding the *whole* lifecycle of an ML
 
 ---
 
-## 🏆 Trophy Case
+## 🏅 Credentials & Experience
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=imagam18&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
+[![Gemini Ambassador](https://img.shields.io/badge/Gemini%20Ambassador-GID%203102-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)](#)
+[![Unstop Ambassador](https://img.shields.io/badge/Unstop%20Campus%20Ambassador-Past-6C63FF?style=for-the-badge&logo=starship&logoColor=white)](#)
+
+[![Learnedix](https://img.shields.io/badge/Business%20Development%20Executive-Learnedix-9C27B0?style=for-the-badge&logo=briefcase&logoColor=white)](#)
+[![1Stop.ai](https://img.shields.io/badge/Data%20Science%20Intern-1Stop.ai-C2185B?style=for-the-badge&logo=databricks&logoColor=white)](#)
+
+<br/>
+
+[![Open to Work](https://img.shields.io/badge/Currently%20Seeking-Data%20Analytics%20Internship-F57C00?style=for-the-badge&logo=targetprocess&logoColor=white)](#)
+
 </div>
 
 ---
@@ -128,6 +138,7 @@ The goal isn't a job title — it's understanding the *whole* lifecycle of an ML
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agamsaxena80@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agam-saxena-405645372)
 [![GitHub](https://img.shields.io/badge/GitHub-9C27B0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imagam18)
 
 **⭐ If something in my repos is useful to you, drop a star — it genuinely makes my day.**
